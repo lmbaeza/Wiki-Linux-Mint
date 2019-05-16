@@ -15,7 +15,7 @@ En 2010, Linux lanzó el LMDE independiente de otras ediciones basadas en Ubuntu
 <img src="https://linuxmint.com/img/flags/png-country-4x2-fancy/res-40x30/fr.png" width="20"/>
 <br/>
 Lider del Proyecto global y equipo de desarrollo. <br/>
-<img src="https://blog.desdelinux.net/wp-content/uploads/2013/03/LXF166.feat_2013.clem-900-90-600x337.jpg" alt="Clement Lefebvre - 'Clem'" width="300" style="border-radius: 15%;"/>
+<img src="https://blog.desdelinux.net/wp-content/uploads/2013/03/LXF166.feat_2013.clem-900-90-600x337.jpg" alt="Clement Lefebvre - 'Clem'" width="300"/>
 
 * **Vincent Vermeulen** <img src="https://linuxmint.com/img/flags/png-country-4x2-fancy/res-40x30/nl.png" width="20"/><br/>
 Lider del equipos de administración y moderación.<br/>
