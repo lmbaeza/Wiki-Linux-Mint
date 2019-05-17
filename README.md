@@ -56,18 +56,18 @@ Dpkg (Debian Package) es un software de gestión de paquetes de Debian que se ut
 
 ### Estructura
 
-| Tables        | Are           |
+| Caracteristica        | Valor           |
 | :------------ |:--------------|
-| Modelo de Desarrollo | Software libre y de código abierto |
-| Versión del Kernel | kernel Linux 4.15 |
-| Lanzamiento inicial | 27 de agosto de 2006 |
-| Última versión estable | 19 "Tara" 29 de junio de 2018 |
-| Tipo de núcleo | Monolítico |
-| Interfaz gráfica predeterminada | MATE, Cinnamon, XFCE |
-| Plataformas admitidas | x86-64, x86 y IA-32 |
-| Sistema de gestión de paquetes | dpkg |
-| Método de actualización | APT |
-| Licencia | GPL |
+| **Modelo de Desarrollo** | Software libre y de código abierto |
+| **Versión del Kernel** | kernel Linux 4.15 |
+| **Lanzamiento inicial** | 27 de agosto de 2006 |
+| **Última versión estable** | 19 "Tara" 29 de junio de 2018 |
+| **Tipo de núcleo** | Monolítico |
+| **Interfaz gráfica predeterminada** | MATE, Cinnamon, XFCE |
+| **Plataformas admitidas** | x86-64, x86 y IA-32 |
+| **Sistema de gestión de paquetes** | dpkg |
+| **Método de actualización** | APT |
+| **Licencia** | GPL |
 
 
 ### Bibliografía
