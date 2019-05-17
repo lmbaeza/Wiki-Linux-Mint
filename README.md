@@ -11,8 +11,7 @@ En 2010, Linux lanzó el LMDE independiente de otras ediciones basadas en Ubuntu
 
 ### Equipo
 
-* **Clement Lefebvre - "Clem"** 
-<img src="https://linuxmint.com/img/flags/png-country-4x2-fancy/res-40x30/fr.png" width="20"/>
+* **Clement Lefebvre - "Clem"** <img src="https://linuxmint.com/img/flags/png-country-4x2-fancy/res-40x30/fr.png" width="20"/>
 <br/>
 Lider del Proyecto global y equipo de desarrollo. <br/>
 <img src="https://blog.desdelinux.net/wp-content/uploads/2013/03/LXF166.feat_2013.clem-900-90-600x337.jpg" alt="Clement Lefebvre - 'Clem'" width="300"/>
@@ -23,3 +22,54 @@ Lider del equipos de administración y moderación.<br/>
 * **Oscar799** <img src="https://linuxmint.com/img/flags/png-country-4x2-fancy/res-40x30/gb.png" width="20"/><br/>
 Lider del equipos de administración y moderación.<br/>
 
+### Instalación
+...
+...
+...
+
+### Gestor de Paquetes
+* **apt - Advanced Package Tool = apt-get + apt-cache**
+
+Apt es un conjunto de herramientas para la gestión de paquetes de Debian también Usada en Ubuntu, ya que este depende de Debian. Esta herramienta de línea de comandos se utiliza para una integración fácil con el sistema de empaquetado dpkg que fué el primer gestor de paquetes de Debian.
+	 	 	
+Apt es la forma más eficiente y preferida por los administradores de software desde la línea de comandos para las distribuciones Linux basadas en Debian.
+
+	 	 	
+Apt realiza instalaciones, búsquedas de paquetes, actualizaciones y muchas otras operaciones a paquetes disponibles para su sistema. Mantener los paquetes actualizados es extremadamente importante, ya que el uso de paquetes desactualizados puede llevar a problemas de seguridad en sus sistema.
+
+* **dpkg**
+
+Dpkg (Debian Package) es un software de gestión de paquetes de Debian que se utiliza para instalar, eliminar paquetes .deb, en sí mismo esta es una herramienta de bajo nivel a diferencia de apt que es de más alto nivel y que internamente utiliza a dpkg. Dpkg se controla completamente a través de los parámetros de la línea de comando, que consiste en exactamente una acción y cero o más opciones. Los parámetros le indica a dpkg que debe hacer y las opciones controlan el comportamiento de la acción de alguna manera.
+
+### Ventajas y Desventajas de usar Linux Mint
+
+* **Ventajas**
+    * Linux Mint prioriza la Elegancia y Facilidad de uso.
+    * Es una distribución muy ligera.
+    * Trata de ser una interfaz amigable para los usuario que vienen de windows.
+    * Mucha documentación porque toda la documentación de Ubuntu es compatible con Linux Mint
+    * Muy bueno para la transición de los principiantes en linux.
+    * Goza de muy buena popularidad en el último tiempo.
+
+* **Desventajas**
+    * ...
+
+### Estructura
+
+| Tables        | Are           |
+| :------------ |:--------------|
+| Modelo de Desarrollo | Software libre y de código abierto |
+| Versión del Kernel | kernel Linux 4.15 |
+| Lanzamiento inicial | 27 de agosto de 2006 |
+| Última versión estable | 19 "Tara" 29 de junio de 2018 |
+| Tipo de núcleo | Monolítico |
+| Interfaz gráfica predeterminada | MATE, Cinnamon, XFCE |
+| Plataformas admitidas | x86-64, x86 y IA-32 |
+| Sistema de gestión de paquetes | dpkg |
+| Método de actualización | APT |
+| Licencia | GPL |
+
+
+### Bibliografía
+
+...
