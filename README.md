@@ -21,11 +21,6 @@ Lider del equipos de administración y moderación.<br/>
 * **Oscar799** <img src="https://linuxmint.com/img/flags/png-country-4x2-fancy/res-40x30/gb.png" width="20"/><br/>
 Lider del equipos de administración y moderación.<br/>
 
-### Instalación
-...
-...
-...
-
 ### Gestor de Paquetes
 * **apt - Advanced Package Tool = apt-get + apt-cache**
 
@@ -51,7 +46,9 @@ Dpkg (Debian Package) es un software de gestión de paquetes de Debian que se ut
     * Goza de muy buena popularidad en el último tiempo.
 
 * **Desventajas**
-    * ...
+    * No Existe mucho software comercial.
+    * Muchos juegos no corren en linux.
+
 
 ### Estructura
 
