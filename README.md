@@ -159,4 +159,5 @@ Su computadora ahora está lista para Iniciar Linux Mint desde el disco duro.
 [[3] - How to use apt Package Manager on Ubuntu Command Line - By Karim Buzdar](https://vitux.com/how-to-use-apt-get-package-manager-on-ubuntu-command-line/)
 
 [[4] - A Beginners Guide to using apt-get commands in Linux(Ubuntu) - By Kayode Oluwafemi](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
+
 [[5] - Acerca Ubuntu vs Mint: Titanes cara a cara - By Mehedi Hasan](https://maslinux.es/ubuntu-vs-mint-titanes-cara-a-cara/)
